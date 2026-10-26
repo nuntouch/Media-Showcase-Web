@@ -1,0 +1,133 @@
+Save photos as 001.jpg / 001.png etc.
+Read left to right, top to bottom. All category frames use 4:3.
+Homepage photos and videos are unchanged.
+
+001 | Enlivening Campaign | L'ORÉAL | 1
+002 | Enlivening Campaign | L'ORÉAL | 2
+003 | Enlivening Campaign | L'ORÉAL | 3
+004 | Enlivening Campaign | L'ORÉAL | 4
+005 | Enlivening Campaign | L'ORÉAL | 5
+006 | Enlivening Campaign | Baby Mild | 1
+007 | Enlivening Campaign | Baby Mild | 2
+008 | Enlivening Campaign | Baby Mild | 3
+009 | Enlivening Campaign | Baby Mild | 4
+010 | Enlivening Campaign | Sunsilk | 1
+011 | Enlivening Campaign | Sunsilk | 2
+012 | Enlivening Campaign | Sunsilk | 3
+013 | Enlivening Campaign | Sunsilk | 4
+014 | Enlivening Campaign | Clear | 1
+015 | Enlivening Campaign | Clear | 2
+016 | Enlivening Campaign | Clear | 3
+017 | Enlivening Campaign | Clear | 4
+018 | Enlivening Campaign | Nescafe Red | 1
+019 | Enlivening Campaign | Nescafe Red | 2
+020 | Enlivening Campaign | Nescafe Red | 3
+021 | Enlivening Campaign | Nescafe Red | 4
+022 | Enlivening Campaign | Nescafe Blue | 1
+023 | Enlivening Campaign | Nescafe Blue | 2
+024 | Enlivening Campaign | Nescafe Blue | 3
+025 | Enlivening Campaign | Nescafe Blue | 4
+026 | Enlivening Campaign | Oishi | 1
+027 | Enlivening Campaign | Oishi | 2
+028 | Enlivening Campaign | Oishi | 3
+029 | Enlivening Campaign | Oishi | 4
+030 | Enlivening Campaign | Mama | 1
+031 | Enlivening Campaign | Mama | 2
+032 | Enlivening Campaign | Mama | 3
+033 | Enlivening Campaign | Mama | 4
+034 | Enlivening Campaign | Breeze | 1
+035 | Enlivening Campaign | Breeze | 2
+036 | Enlivening Campaign | Breeze | 3
+037 | Enlivening Campaign | Breeze | 4
+038 | Home Shelf Media | Shelf Divider | 1
+039 | Home Shelf Media | Shelf Pop Up / Mini Shelf Pop Up | 1
+040 | Home Shelf Media | Shelf Pop Up / Mini Shelf Pop Up | 2
+041 | Home Shelf Media | Shelf Pop Up / Mini Shelf Pop Up | 3
+042 | Home Shelf Media | Shelf Pop Up / Mini Shelf Pop Up | 4
+043 | Home Shelf Media | Highlighter Frame | 1
+044 | Home Shelf Media | Highlighter Frame | 2
+045 | Home Shelf Media | Highlighter Frame | 3
+046 | Home Shelf Media | Highlighter Frame | 4
+047 | Home Shelf Media | Shelf Bar LCD | 1
+048 | Home Shelf Media | Shelf Bar LCD | 2
+049 | Home Shelf Media | Shelf Bar LCD | 3
+050 | Home Shelf Media | Shelf Bar LCD | 4
+051 | Home Shelf Media | AI Expert Robotic | 1
+052 | Home Shelf Media | AI Expert Robotic | 2
+053 | Home Shelf Media | AI Expert Robotic | 3
+054 | Home Shelf Media | AI Expert Robotic | 4
+055 | Home Shelf Media | Education Bar | 1
+056 | Home Shelf Media | Education Bar | 2
+057 | Home Shelf Media | Education Bar | 3
+058 | Home Shelf Media | Education Bar | 4
+059 | Home Shelf Media | Slim Education Bar | 1
+060 | Home Shelf Media | Slim Education Bar | 2
+061 | Home Shelf Media | Slim Education Bar | 3
+062 | Home Shelf Media | Slim Education Bar | 4
+063 | Home Shelf Media | Mini Education Bar | 1
+064 | Home Shelf Media | Mini Education Bar | 2
+065 | Home Shelf Media | Mini Education Bar | 3
+066 | Home Shelf Media | Mini Education Bar | 4
+067 | Home Shelf Media | Product Spotlight | 1
+068 | Home Shelf Media | Product Spotlight | 2
+069 | Home Shelf Media | Product Spotlight | 3
+070 | Home Shelf Media | Product Spotlight | 4
+071 | Home Shelf Media | Bottom Ad | 1
+072 | Home Shelf Media | Bottom Ad | 2
+073 | Home Shelf Media | Bottom Ad | 3
+074 | Home Shelf Media | Bottom Ad | 4
+075 | Top Shelf & Aisle Media | Shelf Frame | 1
+076 | Top Shelf & Aisle Media | Shelf Frame | 2
+077 | Top Shelf & Aisle Media | Shelf Frame | 3
+078 | Top Shelf & Aisle Media | Shelf Frame | 4
+079 | Top Shelf & Aisle Media | Shelf Frame | 5
+080 | Top Shelf & Aisle Media | Dynamic Frame | 1
+081 | Top Shelf & Aisle Media | Dynamic Frame | 2
+082 | Top Shelf & Aisle Media | Dynamic Frame | 3
+083 | Top Shelf & Aisle Media | Dynamic Frame | 4
+084 | Top Shelf & Aisle Media | HBA Front Headboard | 1
+085 | Top Shelf & Aisle Media | HBA Front Headboard | 2
+086 | Top Shelf & Aisle Media | HBA Front Headboard | 3
+087 | Top Shelf & Aisle Media | HBA Front Headboard | 4
+088 | Top Shelf & Aisle Media | HBA Showcase | 1
+089 | Top Shelf & Aisle Media | HBA Showcase | 2
+090 | Top Shelf & Aisle Media | HBA Showcase | 3
+091 | Top Shelf & Aisle Media | HBA Showcase | 4
+092 | Top Shelf & Aisle Media | Product Frame | 1
+093 | Top Shelf & Aisle Media | Product Frame | 2
+094 | Top Shelf & Aisle Media | Product Frame | 3
+095 | Top Shelf & Aisle Media | Product Frame | 4
+096 | Top Shelf & Aisle Media | Overhead Stopper | 1
+097 | Top Shelf & Aisle Media | Overhead Stopper | 2
+098 | Top Shelf & Aisle Media | Overhead Stopper | 3
+099 | Top Shelf & Aisle Media | Overhead Stopper | 4
+100 | Top Shelf & Aisle Media | Aisle Arch | 1
+101 | Top Shelf & Aisle Media | Aisle Arch | 2
+102 | Top Shelf & Aisle Media | Aisle Arch | 3
+103 | Top Shelf & Aisle Media | Aisle Arch | 4
+104 | Top Shelf & Aisle Media | Full Floor Sticker | 1
+105 | Top Shelf & Aisle Media | Full Floor Sticker | 2
+106 | Top Shelf & Aisle Media | Full Floor Sticker | 3
+107 | Top Shelf & Aisle Media | Full Floor Sticker | 4
+108 | Special Media | Special Display | 1
+109 | Special Media | Special Display | 2
+110 | Special Media | Special Display | 3
+111 | Special Media | Special Display | 4
+112 | Special Media | Special Display | 5
+113 | Special Media | Vendor Fixture | 1
+114 | Special Media | Vendor Fixture | 2
+115 | Special Media | Vendor Fixture | 3
+116 | Special Media | Vendor Fixture | 4
+117 | Special Media | Booth Activity | 1
+118 | Special Media | Booth Activity | 2
+119 | Special Media | Booth Activity | 3
+120 | Special Media | Booth Activity | 4
+121 | Special Media | Product Tester | 1
+122 | Special Media | Product Tester | 2
+123 | Special Media | Product Tester | 3
+124 | Special Media | Product Tester | 4
+125 | Special Media | Clip Strip | 1
+126 | Special Media | Clip Strip | 2
+127 | Special Media | Clip Strip | 3
+128 | Special Media | Clip Strip | 4
+UPDATE: AI Expert Robotic (051–054) removed. Product Spotlight uses 067–068 only; 069–070 removed. All other numbers retained.
